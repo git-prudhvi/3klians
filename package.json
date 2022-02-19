@@ -1,0 +1,23 @@
+{
+  "name": "3klians",
+  "version": "1.0.0",
+  "description": "mana project vs code tho sync undadaniki",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/git-prudhvi/3klians.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/git-prudhvi/3klians/issues"
+  },
+  "homepage": "https://github.com/git-prudhvi/3klians#readme",
+  "dependencies": {
+    "web3": "^1.7.0"
+  }
+}
